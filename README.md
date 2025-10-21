@@ -30,11 +30,10 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1E90FF?style=for-the-badge&logo=css3&logoColor=white)
 ![SASS](https://img.shields.io/badge/SASS-FF69B4?style=for-the-badge&logo=sass&logoColor=white)
 
-### 🧩 Frameworks
-<p align="center">
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white"/>
-</p>
+
+#### 🧩 Frameworks
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
 
 
 #### 🗄️ Banco de Dados
