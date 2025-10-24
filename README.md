@@ -8,10 +8,10 @@
 ---
 
 ### 💫 Sobre mim
-- 🎓 Estudante de **Ciência da Computação**
-- 💻 Amo transformar ideias em código e criar soluções que fazem a diferença
-- ☕ Tenho certificações em **Java**, **JavaScript** e **Banco de Dados**
-- 🌱 Sempre aprendendo mais sobre **desenvolvimento fullstack**, **banco de dados** e **boas práticas de código**
+- Estudante de **Ciência da Computação**
+- Gosto de transformar ideias em código e criar soluções que fazem a diferença
+- Possuo certificações em **Java**, **JavaScript** e **Banco de Dados**
+- Sempre bsuco aprender mais sobre **desenvolvimento fullstack**, **banco de dados** e **boas práticas de código**
 
 ---
 
@@ -28,7 +28,6 @@
 #### 🎨 Frontend
 ![HTML5](https://img.shields.io/badge/HTML5-FF6347?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1E90FF?style=for-the-badge&logo=css3&logoColor=white)
-![SASS](https://img.shields.io/badge/SASS-FF69B4?style=for-the-badge&logo=sass&logoColor=white)
 
 
 #### 🧩 Frameworks
@@ -44,9 +43,9 @@
 ---
 
 ### 🏆 Certificações
-- ☕ **Certificação em Java**
-- 💠 **Certificação em JavaScript**
-- 🗄️ **Certificação em Banco de Dados** 
+- **Certificação em Java**
+- **Certificação em JavaScript**
+- **Certificação em Banco de Dados** 
 
 ---
 
