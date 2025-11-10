@@ -1,15 +1,15 @@
-<h1 align="center">✨ Olá, eu sou a <strong>Ana Roberta</strong> 👩‍💻</h1>
+<h1 align="center"> Olá, eu sou a <strong>Ana Roberta</strong> 👩‍💻</h1>
 
 <p align="center">
-  Estudante de <strong>Ciência da Computação</strong> | Apaixonada por <strong>programação e tecnologia</strong> 💻<br>
-  Sempre buscando novos desafios e oportunidades para aprender e crescer na área de desenvolvimento 🚀
+  Estudante de <strong>Ciência da Computação</strong> | 
+  Sempre buscando novos desafios e oportunidades para aprender e crescer na área de desenvolvimento e Ciência de Dados.
 </p>
 
 ---
 
 ### 💫 Sobre mim
 - Estudante de **Ciência da Computação**
-- Gosto de transformar ideias em código e criar soluções que fazem a diferença
+- Gosto de transformar ideias em código.
 - Possuo certificações em **Java**, **JavaScript** e **Banco de Dados**
 - Sempre bsuco aprender mais sobre **desenvolvimento fullstack**, **banco de dados** e **boas práticas de código**
 
@@ -20,7 +20,6 @@
 #### 💡 Linguagens de Programação
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-8A2BE2?style=for-the-badge&logo=c-sharp&logoColor=white)
-![C++](https://img.shields.io/badge/C++-004482?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-FFD700?style=for-the-badge&logo=javascript&logoColor=black)
 ![Java](https://img.shields.io/badge/Java-F89820?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-4B8BBE?style=for-the-badge&logo=python&logoColor=white)
